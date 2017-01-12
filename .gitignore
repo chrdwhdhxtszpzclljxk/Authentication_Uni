@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+Authentication_Uni_ashx/Authentication_Uni_ashx/bin/
+Authentication_Uni_ashx/Authentication_Uni_ashx/obj/
+Authentication_Uni_webapi/src/Authentication_Uni/bin/
+Authentication_Uni_webapi/src/Authentication_Uni/obj/
